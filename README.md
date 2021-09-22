@@ -1,4 +1,4 @@
-# Hospital Management Systems
+# Hospital Management System
 Hey, this is a project of hospital managament systems I created as my college assignment.
 The design for it is developed using VB.net for code implementation and 
 MS Access as a database.
