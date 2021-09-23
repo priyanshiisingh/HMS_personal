@@ -1,6 +1,6 @@
 # Hospital Management System
 Hey, this is a project of hospital managament systems I created as my college assignment.
-The design for it is developed using Visual Studio 2019 platform and the lanuguage used for 
+The design for it is developed using Visual Studio 2019 platform and the language used for 
 code implementation was VB.net and MS Access as a database.
 The project helps the user to maintain, fetch and update records as per use.
 In this every patient is identified using a Unique id which is alphanumeric. The first
